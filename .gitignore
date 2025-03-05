@@ -398,3 +398,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+# 补充忽略规则
+  bin/
+  obj/
+  .vs/
+  *.user
+  *.suo
+  packages/
